@@ -1,0 +1,13 @@
+body {
+    color: rgb(91, 4, 206);
+    background: rgb(218, 185, 255);
+
+
+
+}
+header {
+    border-buttom: solid 2px rgb(62, 0, 87)
+    padding: 2px;
+    font-size: 32px;
+    color: red
+}
